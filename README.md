@@ -1,7 +1,7 @@
 # k8-java-guestbook
 
 k8-java-guestbook is a sample Java guestbook application for demonstrating application autoinstrumentation with AppDynamics.
-It uses __skaffold__ to build, run application on your target Kubernetes cluster.
+It uses __skaffold__ to build, run application on your target Kubernetes cluster. The default code was generated using Cloud Code plugin for Visual Studio Code.
 
 ## Installation
 
